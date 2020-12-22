@@ -124,7 +124,7 @@ class Contact extends Page{
                 <label>Message:<textarea name="message" placeholder="type your message here" class="form-control"
                         required></textarea></label>
             </div>
-            <button type="submit">Send Message</button>
+            <button style="background-color:blue; border-color:blue; type="submit">Send Message</button>
             
 
         </form>    
