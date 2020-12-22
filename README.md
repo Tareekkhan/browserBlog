@@ -1,5 +1,5 @@
-Browser Blog
-===
+# assignment-4-take-2 ... Browser Blog
+
 
 To run:
 
@@ -13,4 +13,8 @@ Alternatively:
 1. install the live server extension
 2. right click on index.html and select `Open with live server`
 
+<<<<<<< HEAD
 This is a project that uses markdown, html5 and es6 to make a single page blog or portfolio. Look in the pages or items folder to see the markdown and the index.js meta-data.# assignment-4-take-2
+=======
+This is a project that uses markdown, html5 and es6 to make a single page blog or portfolio. Look in the pages or items folder to see the markdown and the index.js meta-data.
+>>>>>>> efde646ed35b1fc3d76668352602abe539c99153
