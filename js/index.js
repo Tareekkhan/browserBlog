@@ -125,6 +125,7 @@ class Contact extends Page{
                         required></textarea></label>
             </div>
             <button type="submit">Send Message</button>
+            
 
         </form>    
         `);
